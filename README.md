@@ -1,7 +1,5 @@
 # 📊 Tableau Sales Analytics Dashboard
 
-🔗 **[Click Here to Interact with Live Dashboard on Tableau Public](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)**
-*(If you haven't published to Tableau Public yet, delete this line)*
 
 ## 📌 Project Overview
 Interactive Tableau dashboard built to analyze sales performance, uncover regional and category trends, and track key business metrics.
