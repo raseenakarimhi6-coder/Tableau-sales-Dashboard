@@ -2,6 +2,8 @@
 
 🔗 **[Click Here to Interact with Live Dashboard on Tableau Public](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)**
 *(If you haven't published to Tableau Public yet, delete this line)*
+(https://public.tableau.com:9443/views/SalesAnalyticalDashboard_17948563294410/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## 📌 Project Overview
 Interactive Tableau dashboard built to analyze sales performance, uncover regional and category trends, and track key business metrics.
 
